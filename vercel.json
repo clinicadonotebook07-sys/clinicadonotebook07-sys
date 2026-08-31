@@ -1,0 +1,4 @@
+{
+  "buildCommand": "unzip -q cada-garfada-hero_1.zip",
+  "outputDirectory": "."
+}
